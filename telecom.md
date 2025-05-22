@@ -1,26 +1,31 @@
 # Fundamentos de telecomunicaciones
 
-## 1 Sistema de comunicación
+## :beginner: 1 Sistema de comunicación
 
-### 1.1 Impacto de las Telecomunicaciones
+### :pencil2: 1.1 Impacto de las Telecomunicaciones
 
-### 1.2 Componentes:
+### :pencil2: 1.2 Componentes:
 
-- Emisor
-- receptor
-- medios
-- códigos
-- protocolos
+:round_pushpin: Emisor :woman:
+:round_pushpin: receptor :man:
+:round_pushpin: medios :telephone:
+:round_pushpin: códigos :ab:
+:round_pushpin: protocolos :page_with_curl:
 
-### 1.3 Señales y su clasificación:
+:email:
 
-- Analógicas, digitales, eléctricas y ópticas.
+### :pencil2: 1.3 Señales y su clasificación:
 
-### 1.4 Análisis matemático de señales
+- Analógicas
+- Digitales
+- Eléctricas
+- Opticas
+
+### :pencil2: 1.4 Análisis matemático de señales
 
 - Análisis de Fourier
 
-## 2 Medios de transmisión y sus características
+## :star: 2 Medios de transmisión y sus características
 
 ### 2.1 Guiados:
 
@@ -42,7 +47,7 @@
     - asentimiento, ventanas deslizantes.
     - Por hardware o software, de lazo abierto o cerrado.
 
-## 3 Modulación
+## :star: 3 Modulación
 
 ### 3.1 Técnicas de modulación analógica:
 
@@ -77,21 +82,21 @@
 
 ### 3.5 Modem, estándares y protocolos
 
-## 4 Técnicas de conmutación
+## :star: 4 Técnicas de conmutación
 
 ### 4.1 Circuitos: Red telefónica pública. (POTS)
 ### 4.2 Paquetes: X.25, Frame Relay
 ### 4.3 Mensajes: Store and Forward
 ### 4.4 Celdas: ATM
 
-## 5 Multiplexación
+## :star: 5 Multiplexación
 
 ### 5.1 TDM División de tiempo
 ### 5.2 FDM División de frecuencia
 ### 5.3 WDM División de longitud
 ### 5.4 CDM División de código
 
-## 6 Dispositivos de comunicación
+## :star: 6 Dispositivos de comunicación
 
 ### 6.1 Características funcionales
 ### 6.2 Interfaces
