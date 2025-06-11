@@ -1,4 +1,4 @@
-# Fundamentos de telecomunicaciones
+# :computer: Fundamentos de telecomunicaciones :satellite:
 
 ## :beginner: 1 Sistema de comunicación
 
@@ -6,11 +6,11 @@
 
 ### :pencil2: 1.2 Componentes:
 
-:round_pushpin: Emisor :woman:
-:round_pushpin: receptor :man:
-:round_pushpin: medios :telephone:
-:round_pushpin: códigos :ab:
-:round_pushpin: protocolos :page_with_curl:
+- Emisor :woman:
+- receptor :man:
+- medios :telephone:
+- códigos :ab:
+- protocolos :page_with_curl:
 
 :email:
 
@@ -25,7 +25,7 @@
 
 - Análisis de Fourier
 
-## :star: 2 Medios de transmisión y sus características
+## :beginner: 2 Medios de transmisión y sus características
 
 ### 2.1 Guiados:
 
@@ -47,7 +47,7 @@
     - asentimiento, ventanas deslizantes.
     - Por hardware o software, de lazo abierto o cerrado.
 
-## :star: 3 Modulación
+## :beginner: 3 Modulación
 
 ### 3.1 Técnicas de modulación analógica:
 
@@ -82,21 +82,21 @@
 
 ### 3.5 Modem, estándares y protocolos
 
-## :star: 4 Técnicas de conmutación
+## :beginner: 4 Técnicas de conmutación
 
 ### 4.1 Circuitos: Red telefónica pública. (POTS)
 ### 4.2 Paquetes: X.25, Frame Relay
 ### 4.3 Mensajes: Store and Forward
 ### 4.4 Celdas: ATM
 
-## :star: 5 Multiplexación
+## :beginner: 5 Multiplexación
 
 ### 5.1 TDM División de tiempo
 ### 5.2 FDM División de frecuencia
 ### 5.3 WDM División de longitud
 ### 5.4 CDM División de código
 
-## :star: 6 Dispositivos de comunicación
+## :beginner: 6 Dispositivos de comunicación
 
 ### 6.1 Características funcionales
 ### 6.2 Interfaces
