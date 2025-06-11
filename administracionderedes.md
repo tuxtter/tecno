@@ -1,7 +1,5 @@
 # :computer: Administracion de redes :computer:
 
-### :pencil2: 1.1 Impacto de las Telecomunicaciones
-
 ## :beginner: 1 Funciones de la administración de redes.
 
 ### :pencil2: 1.1 Configuración.
@@ -22,8 +20,9 @@
 ### :pencil2: 2.8 SMTP, POP, IMAP y SASL.
 ### :pencil2: 2.9 Proxy.
 
-## :beginner: 3 Análisis y Monitoreo. 3.1 Protocolos de administración de red.
+## :beginner: 3 Análisis y Monitoreo.
 
+### :pencil2: 3.1 Protocolos de administración de red.
 ### :pencil2: 3.2 Bitácoras.
 ### :pencil2: 3.3 Analizadores de protocolos (scanners y sniffers).
 ### :pencil2: 3.4 Análisis de desempeño de la red: tráfico y servicios.
